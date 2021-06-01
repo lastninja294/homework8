@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.pan-1 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: sans-serif;
+  font-size: 3rem;
+  background-color: #fff;
+  color: #444;
+  text-shadow: 0.5px 1px #dadada, 1px 1.8px #dadada, 1.5px 2.6px #dadada,
+    2px 3.4px #dadada, 2.5px 4px #dadada;
+}
+
+.pan-2 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: sans-serif;
+  font-size: 3rem;
+  background-color: #f00;
+  color: #92a5df;
+  text-shadow: 0.5px 1px 1px #6679b3, 1px 2px 1px #4b5880, 1.5px 3px 1px #596a9c,
+    2px 4px 1px #596a9c, 2.5px 5px 1px #3a4566, 3px 6px 1px #303955,
+    3.5px 7px 1px #0c0419;
+}
+
+.pan-3 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: sans-serif;
+  font-size: 3rem;
+  background-color: #edde9b;
+  color: #b93119;
+  text-shadow: 0.5px 1px #398fc0, 1px 1.8px #398fc0, 1.5px 2.6px #398fc0,
+    2px 3.4px #398fc0, 2.5px 4px #398fc0;
+}
+
+.pan-4 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: serif;
+  font-size: 3rem;
+  color: #e0eff2;
+  background-color: #3a50d9;
+  text-shadow: -3px 1px #3349d3, -6px 2.5px #000;
+}
+
+.pan-5 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: serif;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: #212c2e;
+  background-color: #fff;
+  text-shadow: -0.5px 1px 1px #b8bdc0, -1px 2px 1px #788991,
+    -1.5px 3px 1px #b8bdc0, -2px 4px 1px #788991, -2.5px 5px 1px #b8bdc0,
+    -3px 6px 1px #788991, -3.5px 7px 1px #b8bdc0;
+}
+
+.pan-6 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: serif;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: #000;
+  background-color: #91877b;
+  text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 35px rgba(255, 255, 255, 0.3);
+}
+
+.pan-7 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: serif;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: #fff;
+  background-color: #0e8cbc;
+  text-shadow: 0px 1.3px #c4cecd, 0px 1.8px #c4cecd, 0px 1.6px #c4cecd,
+    0px 2px #c4cecd, 0px 2.5px #c4cecd, 2px 8px 6px rgba(0, 0, 0, 0.2),
+    0px -5px 35px rgba(255, 255, 255, 0.3);
+}
+
+.pan-8 {
+  text-align: center;
+  padding: 50px 4px;
+  font-family: serif;
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: #3b3b3b;
+  background-color: #f5f5f5;
+  text-shadow: 15px 15px 7.5px #f8589e;
+}
+
+.pan-9{
+  text-align: center;
+  width: 200px;
+  height: 500px;
+  background-color: #1d6ea5;
+}
