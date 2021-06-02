@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .pan-1 {
@@ -110,7 +111,7 @@
     18px 18px rgba(41, 158, 238, 0.4), 24px 24px rgba(41, 158, 238, 0.2);
 }
 
-.pan-9-1{
+.pan-9-1 {
   padding: 10px 15px;
   display: inline-block;
   background-color: white;
@@ -118,7 +119,7 @@
   margin: 30px 50px;
 }
 
-.pan-10{
+.pan-10 {
   font-family: sans-serif;
   width: 50%;
   width: 100px;
@@ -127,10 +128,11 @@
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  box-shadow:7px -5px 4px #fc5042,13px 3px 4px #fae45a,-5px 3px 15px 10px #fc5042,-6px 4px 10px 17px #fae45a;
+  box-shadow: 7px -5px 4px #fc5042, 13px 3px 4px #fae45a,
+    -5px 3px 15px 10px #fc5042, -6px 4px 10px 17px #fae45a;
 }
 
-.pan-10-1{
+.pan-10-1 {
   padding: 10px 15px;
   display: inline-block;
   background-color: white;
@@ -138,3 +140,98 @@
   margin: 15px 20px;
 }
 
+section#target {
+  background-color: #fff;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.f1 {
+  background-color: #f00;
+  width: 35px;
+  height: 35px;
+  display: inline-block;
+  box-sizing: border-box;
+
+}
+
+.f2 {
+  background-color: #f00;
+  width: 35px;
+  height: 35px;
+  float: right;
+  box-sizing: border-box;
+
+}
+.tepa{
+  box-sizing: border-box;
+}
+.past{
+  margin-top: 226px;
+  box-sizing: border-box;
+}
+.f3 {
+  background-color: #f00;
+  width: 35px;
+  height: 35px;
+  display: inline-block;
+  box-sizing: border-box;
+
+}
+
+
+.f4 {
+  background-color: #f00;
+  width: 35px;
+  height: 35px;
+  float: right;
+  box-sizing: border-box;
+}
+
+.f-1{
+  background-color: rgb(255, 255, 255);
+  width: 265px;
+  height: 265px;
+  margin-top: 17.5px;
+  margin-left: 17.5px;
+  box-sizing: border-box;
+}
+
+.f-2{
+  background-color: rgb(255, 255, 255);
+  width: 17.5px;
+  height: 17.5px;
+  float: right;
+  box-sizing: border-box;
+}
+
+.f-3{
+  background-color: #fff;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+
+
+.p-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  background-color: rgb(255, 0, 0);
+  width: 100px;
+  height: 150px;
+  margin-top: 60px;
+  border-radius: 15px;
+  color: #fff;
+  font-size: 2rem;
+  box-sizing: border-box;
+}
+
+.hh{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
